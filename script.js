@@ -8,4 +8,4 @@ setInterval(() => {
     number.innerHTML = counter + "%"
   }
     
-}, 20);
+}, 32);
